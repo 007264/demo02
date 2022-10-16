@@ -6,5 +6,6 @@ public class App
     {
         System.out.println( "Hello World!" );
         System.out.println("version1");
+        System.out.println("This is hot-fix");
     }
 }
